@@ -1,1 +1,1 @@
-Handbook for JBoss Outreach mentors.
+Handbook for JBoss Outreach's mentors.
