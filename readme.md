@@ -11,7 +11,9 @@
  
 ## Creating a task:
 
-Some key points to keep in mind while creating the task:-
+You can have a look at [example tasks by Google](https://developers.google.com/open-source/gci/resources/example-tasks) and [JBoss 2018 GCI tasks](https://codein.withgoogle.com/archive/2018/organization/5111873431142400/task/) for inspiration.
+
+However, to remind you, here are some key points to keep in mind while creating tasks:
 
 -   **Title Format:**
     -   **[Project Name]**: Task requirement in brief.
@@ -23,7 +25,7 @@ Some key points to keep in mind while creating the task:-
     
 	-   Ideal steps that a student should follow to complete that task (pointers are a must in this).
     
-	-   “Task requirements from the student”:
+	-   Task requirements from the student:
 		-   Screenshots (if any)
     
 		-   Link to the pull request.
@@ -33,7 +35,7 @@ Some key points to keep in mind while creating the task:-
 		-   Github issue link for the task
     
 	-   Additional Sources
-		-   Add sources like the link to the framework’s documentation or any other website that can help the student in learning about it.
+		-   Add sources like the link to the project’s documentation or any other website that can help the student in learning about it.
     
 
 -   **Instance count:**
