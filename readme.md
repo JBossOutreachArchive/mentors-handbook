@@ -66,7 +66,7 @@ However, to remind you, here are some key points to keep in mind while creating 
     
 
 -   Communicate with the student, respond to questions and comments within 12  hours.  
-    If a student asks for help in IRC, please make sure to help him as soon as you can or direct him to your colleague who would be best suited to help him/her.
+    If a student asks for help in IRC, please make sure to help them as soon as you can or direct them to your colleague who would be best suited to help.
     
 -   Encourage the students to ask questions, preferably on GCI Dashboard or on the Gitter chatroom.
     
