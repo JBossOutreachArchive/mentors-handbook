@@ -4,10 +4,23 @@
 -   On the dashboard, you can view the number of assigned tasks that have been assigned to you.
     
 -   If you are interested in mentoring a certain task, you can assign it to yourself on the task page.
+
+    <img src="https://i.imgur.com/VXf04oM.png" width = "600" height = "140" align = "right">
+
     
 -   **Draft Tasks:** The tasks which have been created but are yet to be finally published by the organization admin. Draft tasks are not visible to the student until they are published by an organization admin.
     
 -   **Assigned Tasks:** The tasks which you have assigned yourself to mentor for the contest.
+
+
+#### The tasks page:
+
+<img src="https://i.imgur.com/jP0bwWh.png" width = "600" height = "150" align = "right">
+
+- You can view all the tasks that have been assigned to you. 
+
+- If you want to see all other tasks that have been created in the organization, you can toggle off the “My tasks” toggle. 
+
  
 ## Creating a task:
 
